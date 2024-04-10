@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import Navbar from "./components/NavBar";
 import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
-import { SandpackCSS } from "./blog/[slug]/sandpack";
+import { SandpackCSS } from "./components/sandpack";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://leerob.io"),
