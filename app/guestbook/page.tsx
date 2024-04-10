@@ -1,4 +1,5 @@
 import { Suspense } from "react";
+import { SignIn, SignOut } from "./buttons";
 
 export const metadata = {
   title: "Guestbook",
