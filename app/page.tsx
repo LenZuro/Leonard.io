@@ -5,7 +5,9 @@ export default function Page() {
         Hello there I am Leonard
       </h1>
       <p className="prose prose-neutral dark:prose-invert">
-        I am front-end web developer based in southern California.
+        I am Full-Stack web developer based in southern California . I have been
+        working in the proffesinal setting for 1.5 years with my foucs in
+        Front-End.
       </p>
     </section>
   );
